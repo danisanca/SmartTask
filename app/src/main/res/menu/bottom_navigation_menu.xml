@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/scheduled_page"
+        android:icon="@drawable/ic_event"
+        android:title="Proximos 7 Dias"/>
+    <item
+        android:id="@+id/all_task_page"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/expired_page"
+        android:icon="@drawable/ic_lock"
+        android:title="Finalizadas"/>
+</menu>
